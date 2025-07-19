@@ -66,7 +66,7 @@ This Excel-based data analysis project explores a dataset of IMDB movies to unco
 4. Refer to the PDF for visual walkthrough.
 
 ## 🧑‍💻 Author
-**[Your Name]**  
+**Nikhil**  
 Data Analytics Enthusiast | SQL | Excel | Visualization
 
 ---
